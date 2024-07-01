@@ -1,7 +1,8 @@
 ```markdown
 # Robust Seismic Data Denoising via Self-Supervised Deep Learning
 
-This repository contains the code and supplementary materials for the paper titled "Robust Seismic Data Denoising via Self-Supervised Deep Learning" by Ji Li, Daniel Trad, and Dawei Liu, published in *Geophysics*.
+This repository contains the code and supplementary materials for Ji Li, Daniel Trad, and Dawei Liu's paper
+"Robust Seismic Data Denoising via Self-Supervised Deep Learning" published in Geophysics.
 
 ## Citation
 
